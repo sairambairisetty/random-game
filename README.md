@@ -3,7 +3,9 @@
 A fun number guessing game built with HTML, CSS, and JavaScript.
 
 ## Live Demo
-Play here: https://
+
+Play here: https://sairambairisetty.github.io/random-game
+
 
 ## How to Play
 - Guess the random number (1-10).
